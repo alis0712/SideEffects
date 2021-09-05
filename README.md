@@ -1,6 +1,6 @@
 # SideEffects
 
-Side Effects is a first person shooter psychological horror game that is built in the Unity Engine.
+Side Effects is a first person psychological horror action adventure game that is built in the Unity Engine along side Houdini. Some of the graphics technology was taken from the Game Institute. 
 
 Pre-alpha version of this game can be found on this repository.
 
