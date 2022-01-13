@@ -4,7 +4,7 @@ Side Effects is a first person psychological horror action adventure game that i
 
 Pre-alpha version of this game can be found on this repository.
 
-This game is currently a work in progress.
+This game is currently a work in progress and will be moved over from Unity to Unreal Engine 5
 
 few small videos below show what the game will look like and what it'll encompass:
 
