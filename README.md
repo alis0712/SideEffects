@@ -17,6 +17,8 @@ https://user-images.githubusercontent.com/62857780/132143140-4d3ae016-fe11-4142-
 
 https://user-images.githubusercontent.com/62857780/116758667-91453d80-a9de-11eb-80ad-a9497470a339.mp4
 
+All art assets were taken from Unity Store, Turbo Squid, and CG trader
+
 
 
 
